@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-05T12:55:13.601Z",
-  "updateTimeLocal": "2025/12/5 下午8:55:13",
+  "updateTime": "2025-12-05T13:37:16.491Z",
+  "updateTimeLocal": "2025/12/5 下午9:37:16",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 21.91,
-      "spotBuy": 22.24,
+      "cashSell": 21.92,
+      "spotBuy": 22.25,
       "spotSell": 22.294
     },
     "SGD": {
