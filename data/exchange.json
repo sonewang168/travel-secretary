@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-09T18:36:42.013Z",
-  "updateTimeLocal": "2025/12/10 上午2:36:42",
+  "updateTime": "2025-12-09T19:19:41.265Z",
+  "updateTimeLocal": "2025/12/10 上午3:19:41",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -134,8 +134,8 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 35.43,
-      "spotBuy": 35.945,
+      "cashSell": 35.45,
+      "spotBuy": 35.965,
       "spotSell": 36.109
     },
     "KRW": {
