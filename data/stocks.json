@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-18T22:26:28.665Z",
-  "updateTimeLocal": "2025/12/19 上午6:26:28",
+  "updateTime": "2025-12-18T23:26:07.772Z",
+  "updateTimeLocal": "2025/12/19 上午7:26:07",
   "stocks": [
     {
       "id": "2330",
@@ -1006,14 +1006,14 @@
       "id": "6446",
       "name": "藥華藥",
       "category": "生技",
-      "price": 502,
-      "change": "NaN",
-      "changePercent": "NaN",
-      "open": 0,
-      "high": 0,
-      "low": 0,
-      "volume": 0,
-      "time": "07:50:00"
+      "price": 495.5,
+      "change": "-6.50",
+      "changePercent": "-1.29",
+      "open": 502,
+      "high": 506,
+      "low": 495.5,
+      "volume": 1163,
+      "time": "13:30:00"
     },
     {
       "id": "1795",
