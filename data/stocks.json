@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-22T05:30:58.906Z",
-  "updateTimeLocal": "2025/12/22 下午1:30:58",
+  "updateTime": "2025-12-22T06:44:32.821Z",
+  "updateTimeLocal": "2025/12/22 下午2:44:32",
   "stocks": [
     {
       "id": "2330",
@@ -278,14 +278,14 @@
       "id": "3008",
       "name": "大立光",
       "category": "光學",
-      "price": 2060,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 2240,
+      "change": "180.00",
+      "changePercent": "8.74",
       "open": 2265,
       "high": 2265,
       "low": 2190,
-      "volume": 1275,
-      "time": "13:29:56"
+      "volume": 1328,
+      "time": "13:30:00"
     },
     {
       "id": "2357",
@@ -395,14 +395,14 @@
       "id": "3665",
       "name": "貿聯-KY",
       "category": "連接器",
-      "price": 1490,
-      "change": "50.00",
-      "changePercent": "3.47",
+      "price": 1475,
+      "change": "35.00",
+      "changePercent": "2.43",
       "open": 1460,
       "high": 1495,
       "low": 1440,
-      "volume": 2396,
-      "time": "13:29:57"
+      "volume": 2602,
+      "time": "13:30:00"
     },
     {
       "id": "3037",
@@ -603,14 +603,14 @@
       "id": "5880",
       "name": "合庫金",
       "category": "金融",
-      "price": 24.75,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 24.85,
+      "change": "0.10",
+      "changePercent": "0.40",
       "open": 24.75,
       "high": 24.9,
       "low": 24.7,
-      "volume": 6331,
-      "time": "13:29:58"
+      "volume": 7594,
+      "time": "13:30:00"
     },
     {
       "id": "2412",
@@ -681,27 +681,27 @@
       "id": "1326",
       "name": "台化",
       "category": "塑化",
-      "price": 32.3,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 32.55,
+      "change": "0.25",
+      "changePercent": "0.77",
       "open": 32.6,
       "high": 33,
       "low": 32.35,
-      "volume": 5937,
-      "time": "13:29:55"
+      "volume": 6457,
+      "time": "13:30:00"
     },
     {
       "id": "6505",
       "name": "台塑化",
       "category": "塑化",
-      "price": 48.6,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 48.5,
+      "change": "-0.10",
+      "changePercent": "-0.21",
       "open": 49.2,
       "high": 49.2,
       "low": 48.15,
-      "volume": 3459,
-      "time": "13:29:58"
+      "volume": 3755,
+      "time": "13:30:00"
     },
     {
       "id": "2002",
@@ -733,14 +733,14 @@
       "id": "1402",
       "name": "遠東新",
       "category": "紡織",
-      "price": 28.05,
-      "change": "-0.20",
-      "changePercent": "-0.71",
+      "price": 27.95,
+      "change": "-0.30",
+      "changePercent": "-1.06",
       "open": 28.25,
       "high": 28.25,
       "low": 27.95,
-      "volume": 3403,
-      "time": "13:29:55"
+      "volume": 4099,
+      "time": "13:30:00"
     },
     {
       "id": "1101",
