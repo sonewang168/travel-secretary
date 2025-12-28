@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-28T17:24:00.414Z",
-  "updateTimeLocal": "2025/12/29 上午1:24:00",
+  "updateTime": "2025-12-28T18:37:32.424Z",
+  "updateTimeLocal": "2025/12/29 上午2:37:32",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 17.86,
-      "spotBuy": 18.19,
+      "cashSell": 17.88,
+      "spotBuy": 18.21,
       "spotSell": 18.211
     },
     "THB": {
