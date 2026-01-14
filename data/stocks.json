@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-14T05:32:01.315Z",
-  "updateTimeLocal": "2026/1/14 下午1:32:01",
+  "updateTime": "2026-01-14T06:44:50.136Z",
+  "updateTimeLocal": "2026/1/14 下午2:44:50",
   "stocks": [
     {
       "id": "2330",
@@ -720,14 +720,14 @@
       "id": "2015",
       "name": "豐興",
       "category": "鋼鐵",
-      "price": 63.7,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 65.6,
+      "change": "1.90",
+      "changePercent": "2.98",
       "open": 64,
-      "high": 65.4,
+      "high": 65.6,
       "low": 63.9,
-      "volume": 741,
-      "time": "13:31:45"
+      "volume": 814,
+      "time": "13:33:00"
     },
     {
       "id": "1402",
