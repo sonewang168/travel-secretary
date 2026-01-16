@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-16T05:32:03.837Z",
-  "updateTimeLocal": "2026/1/16 下午1:32:03",
+  "updateTime": "2026-01-16T06:44:36.528Z",
+  "updateTimeLocal": "2026/1/16 下午2:44:36",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -17,63 +17,63 @@
       "name": "港幣",
       "flag": "🇭🇰",
       "cashBuy": 0,
-      "cashSell": 3.892,
-      "spotBuy": 4.018,
-      "spotSell": 4.016
+      "cashSell": 3.891,
+      "spotBuy": 4.017,
+      "spotSell": 4.015
     },
     "GBP": {
       "code": "GBP",
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.07,
-      "spotBuy": 42.08,
-      "spotSell": 42.042
+      "cashSell": 41.05,
+      "spotBuy": 42.06,
+      "spotSell": 42.022
     },
     "AUD": {
       "code": "AUD",
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 20.77,
-      "spotBuy": 21.06,
-      "spotSell": 21.043
+      "cashSell": 20.75,
+      "spotBuy": 21.04,
+      "spotSell": 21.023
     },
     "CAD": {
       "code": "CAD",
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.24,
-      "spotBuy": 22.64,
-      "spotSell": 22.632
+      "cashSell": 22.23,
+      "spotBuy": 22.63,
+      "spotSell": 22.622
     },
     "SGD": {
       "code": "SGD",
       "name": "新加坡幣",
       "flag": "🇸🇬",
       "cashBuy": 0,
-      "cashSell": 23.95,
-      "spotBuy": 24.44,
-      "spotSell": 24.437
+      "cashSell": 23.94,
+      "spotBuy": 24.43,
+      "spotSell": 24.427
     },
     "CHF": {
       "code": "CHF",
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 38.53,
-      "spotBuy": 39.21,
-      "spotSell": 39.218
+      "cashSell": 38.52,
+      "spotBuy": 39.2,
+      "spotSell": 39.208
     },
     "JPY": {
       "code": "JPY",
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1902,
-      "spotBuy": 0.1975,
-      "spotSell": 0.1975
+      "cashSell": 0.1901,
+      "spotBuy": 0.1974,
+      "spotSell": 0.1974
     },
     "ZAR": {
       "code": "ZAR",
@@ -81,8 +81,8 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.892,
-      "spotSell": 1.889
+      "spotBuy": 1.888,
+      "spotSell": 1.885
     },
     "SEK": {
       "code": "SEK",
@@ -90,25 +90,25 @@
       "flag": "🇸🇪",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 3.38,
-      "spotSell": 3.379
+      "spotBuy": 3.37,
+      "spotSell": 3.369
     },
     "NZD": {
       "code": "NZD",
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 17.7,
-      "spotBuy": 18.08,
-      "spotSell": 18.071
+      "cashSell": 17.69,
+      "spotBuy": 18.07,
+      "spotSell": 18.061
     },
     "THB": {
       "code": "THB",
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.879,
-      "spotBuy": 0.9924,
+      "cashSell": 0.8782,
+      "spotBuy": 0.9916,
       "spotSell": 0
     },
     "PHP": {
@@ -116,7 +116,7 @@
       "name": "菲律賓乺",
       "flag": "🇵🇭",
       "cashBuy": 0,
-      "cashSell": 0.4657,
+      "cashSell": 0.4658,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -134,16 +134,16 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 35.84,
-      "spotBuy": 36.46,
-      "spotSell": 36.445
+      "cashSell": 35.83,
+      "spotBuy": 36.45,
+      "spotSell": 36.435
     },
     "KRW": {
       "code": "KRW",
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.01969,
+      "cashSell": 0.01967,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -161,7 +161,7 @@
       "name": "馬來幣",
       "flag": "🇲🇾",
       "cashBuy": 0,
-      "cashSell": 6.753,
+      "cashSell": 6.752,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -170,9 +170,9 @@
       "name": "人民幣",
       "flag": "🇨🇳",
       "cashBuy": 0,
-      "cashSell": 4.435,
-      "spotBuy": 4.507,
-      "spotSell": 4.5054
+      "cashSell": 4.434,
+      "spotBuy": 4.506,
+      "spotSell": 4.5044
     }
   }
 }
